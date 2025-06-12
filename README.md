@@ -46,7 +46,7 @@ The project leverages fundamental principles of robotic kinematics:
 ## Screenshots / Demo
 
 ![2-DOF Robotic Arm Animation Demo](./robot_arm_animation.gif)
-*A live demonstration of the arm following a random path.*
+* Live demonstration of the arm following a random path.*
 
 ## Contribution
 
